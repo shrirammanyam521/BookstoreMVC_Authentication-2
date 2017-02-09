@@ -1,0 +1,14 @@
+/*
+Student Info: Name=Ken Cheung, ID=1234
+Suject: CS526_Petstore_Summer_2015
+Author: ken
+Filename: navigation.css
+Date and Time: May 27, 2015 11:06:28 AM
+Project Name: petstore
+*/
+/* 
+    Created on : May 27, 2015, 11:06:28 AM
+    Author     : ken
+*/
+nav a { text-decoration: none; color: blue; background-color: #dddddd}
+nav a:hover { text-decoration: underline;  }

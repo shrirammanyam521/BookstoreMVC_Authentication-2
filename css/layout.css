@@ -1,0 +1,33 @@
+h1
+{
+    text-shadow: 5px 5px 5px #FF0000;
+} 
+
+#sidebar {
+    float: left;
+    width: 180px;
+    border:2px solid;
+    background-color:#b0e0e6;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+#main {
+    margin-left: 10px;
+    padding-left: 10px;
+    float: left;
+    width: 500px;
+    height: 450px;
+    border:2px solid;
+    background-color:#b0e0e6;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+table
+{
+    border-collapse:collapse;
+}
+table,th, td
+{
+    border: 1px solid black;
+}
+
